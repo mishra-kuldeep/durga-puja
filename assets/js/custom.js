@@ -29,7 +29,7 @@ $(document).ready(function () {
         autoplay: true,
         lazyLoad: true,
         autoplayHoverPause: true,
-        autoplayTimeout: 4000000,
+        autoplayTimeout: 4000,
         nav: true,
         dots: false,
         loop: true,
